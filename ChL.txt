@@ -1,0 +1,18 @@
+             Checklist
+
+Registration
+-Email
+-Sotial networks
+-Fields validation
+Autorization
+-User activated
+-User not activated
+-Password recovery
+-Fields validation
+Profile
+-Name change
+-Email cange
+-Password change
+-Fields validation
+-Subscrioion
+-Account delete
